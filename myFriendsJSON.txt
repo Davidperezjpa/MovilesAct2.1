@@ -1,0 +1,10 @@
+[       
+    {"name":"Pedro",
+    "hobby": "BasquetBol"},
+    {"name":"Marce",
+    "hobby": "FutBol"},
+    {"name":"Diego",
+    "hobby": "VideoJuegos"},
+    {"name":"Daniel",
+    "hobby": "Baraja"}
+]
